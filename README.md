@@ -1,9 +1,3 @@
-<!--
- * @Author: qinruiguang
- * @LastEditors: qinruiguang
- * @Date: 2021-03-24 14:49:28
- * @LastEditTime: 2021-08-03 17:57:46
--->
 # guang
 
 > An electron-vue project
